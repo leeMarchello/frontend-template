@@ -1,0 +1,13 @@
+.item {
+	font-size: 24px;
+	color: white;
+	font-family: sans-serif;
+
+	&--1 {
+		background-color: orangered;
+	}
+
+	&--2 {
+		background-color: royalblue;
+	}
+}

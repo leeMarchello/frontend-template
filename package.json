@@ -1,0 +1,23 @@
+{
+  "name": "frontend-template",
+  "version": "1.0.0",
+  "description": "A customised react js frontend template with tooling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "node-sass -w styles.scss styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeMarchello/frontend-template.git"
+  },
+  "author": "Lee Marchello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeMarchello/frontend-template/issues"
+  },
+  "homepage": "https://github.com/leeMarchello/frontend-template#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

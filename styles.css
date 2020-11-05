@@ -1,0 +1,8 @@
+.item {
+  font-size: 24px;
+  color: white;
+  font-family: sans-serif; }
+  .item--1 {
+    background-color: orangered; }
+  .item--2 {
+    background-color: royalblue; }

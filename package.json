@@ -1,6 +1,7 @@
 {
   "name": "frontend-template",
   "version": "1.0.0",
+  "proxy": "http://localhost:9090",
   "description": "A customised react js frontend template with tooling.",
   "main": "index.js",
   "scripts": {
